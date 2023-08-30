@@ -1,4 +1,4 @@
-# Project Name
+# tourPak
 
 tourPak is an API designed for people who love to travel made using MongoDB, Express.js, Node.js and Mongoose.
 
