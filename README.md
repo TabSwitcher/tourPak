@@ -53,6 +53,19 @@ tourPak is an API designed for people who love to travel made using MongoDB, Exp
 1. Clone the repository.
    ```sh
    git clone https://github.com/TabSwitcher/tourPak.git
+   $ npm i
+2. Set your env variables
+   ```sh
+    $ npm run watch:js
+    $ npm run build:js
+    $ npm run dev (for development)
+    $ npm run start:prod (for production)
+    $ npm run debug (for debug)
+    $ npm start
+3. Setting up ESLint and Prettier in VS Code 👇🏻
+   ```sh
+    $ npm i eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node
+    eslint-plugin-import eslint-plugin-jsx-a11y  eslint-plugin-react --save-dev
 
 
 ## API Usage 🚀
